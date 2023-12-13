@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Santoshreddy075
 - 👀 I’m interested in Coding, AR, VR
-- 🌱 I’m currently learning CSE 1st year
-- 💞️ I’m looking to collaborate on C Projects
+- 🌱 I’m currently learning CSE 3rd year
+- 💞️ I’m looking to collaborate on C, Java, JS, HTML, CSS Projects
 - 📫 How to reach me santoshreddy75@icloud.com
 
 <!---
